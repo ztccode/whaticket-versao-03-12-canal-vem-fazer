@@ -1,15 +1,3 @@
-# whaticket-versao-03-12-canal-vem-fazer
-
-
-
-▂ ▃ ▄ ▅ ▆ ▇ █ AJUDE O CANAL █ ▇ ▆ ▅ ▄ ▃ ▂
-★VAMOS: Curtir ✔️Comentar ✔️Compartilhar ✔️Inscrever-Se ✔️★
-
-
-
-
-AGORA VAMOS COMEÇAR
-
 No windows, instale o programa Bitvise SSH 👇👇
 https://www.bitvise.com/ssh-client-download
 Entre no programa Bitvise SSH e no campo "Host" digite o IP do seu servidor VPS.
@@ -29,11 +17,9 @@ CLIQUE NO BOTÃO "NEW TERMINAL CONSOLE"
 
 
 ------------------------------------------------------------------------------------------------------------------------------
-SELECIONE E COPIE (TECLA "Ctrl" + A TECLA "C") O CODIGO ABAIXO E NO TERMINAL DE UM CLIQUE COM O BOTÃO DIREITO QUE O CÓDIGO JÁ APARECE NO TERMINAL, APÓS ISSO APERTE A TECLA "ENTER"
 sudo apt-get update && sudo apt-get upgrade -y
 ----------------
 
-SELECIONE E COPIE (TECLA "Ctrl" + A TECLA "C") O CÓDIGO ABAIXO E NO TERMINAL DE UM CLIQUE COM O BOTÃO DIREITO QUE O CÓDIGO JÁ APARECE NO TERMINAL, APÓS ISSO APERTE A TECLA "ENTER"
 sudo apt install -y git && git clone https://github.com/vemfazer/install install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ---------------
 
